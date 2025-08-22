@@ -1,4 +1,3 @@
-package my_learnings;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
@@ -114,4 +113,5 @@ public class MINI_BANK
         System.out.println("THANK YOU FOR BANKING WITH US");
         isTrue = false;
     }
+
 }
